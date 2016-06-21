@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "317826902692",
+    "project_id": "tesanalytic"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317826902692:android:9912444799f64e7c",
+        "android_client_info": {
+          "package_name": "com.example.cholid_ridwan.tesanalytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz3pRsmiNhcoZtf69RtUNe8Yz-1M7jRwM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-79611794-3"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
